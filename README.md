@@ -1,2 +1,2 @@
 # mariadbautomaticinstall
-wget https://raw.githubusercontent.com/2duo/mariadbautomaticinstall/main/phpmyadmin.sh;
+wget https://raw.githubusercontent.com/FireS0ldier/mariadbautomaticinstall/main/phpmyadmin.sh
